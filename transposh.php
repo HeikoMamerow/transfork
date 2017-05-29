@@ -1,26 +1,15 @@
 <?php
 
 /*
-  Plugin Name: Transposh Translation Filter
-  Plugin URI: http://transposh.org/
-  Description: Translation filter for WordPress, After enabling please set languages at the <a href="admin.php?page=tp_main">the options page</a> Want to help? visit our development site at <a href="http://trac.transposh.org/">trac.transposh.org</a>.
-  Author: Team Transposh
-  Version: 0.9.9.1
-  Author URI: http://transposh.org/
+  Plugin Name: Transfork
+  Plugin URI: https://github.com/HeikoMamerow/transfork
+  Description: Fork of the Transposh plugin
+  Author: Heiko Mamerow
+  Version: 0.0.1
+  Author URI: https://heikomamerow.de/
   License: GPL (http://www.gnu.org/licenses/gpl.txt)
   Text Domain: transposh
   Domain Path: /langs
- */
-
-/*
- * Transposh v0.9.9.1
- * http://transposh.org/
- *
- * Copyright 2016, Team Transposh
- * Licensed under the GPL Version 2 or higher.
- * http://transposh.org/license
- *
- * Date: Sun, 15 May 2016 11:33:49 +0300
  */
 
 //avoid direct calls to this file where wp core files not present
