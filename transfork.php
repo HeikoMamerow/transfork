@@ -3,7 +3,7 @@
 /*
   Plugin Name: Transfork
   Plugin URI: https://github.com/HeikoMamerow/transfork
-  Description: Fork of the Transposh plugin
+  Description: Fork of the Transposh plugin.
   Author: Heiko Mamerow
   Version: 0.0.1
   Author URI: https://heikomamerow.de/
