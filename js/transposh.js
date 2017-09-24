@@ -156,7 +156,7 @@
 			url: 'https://translation.googleapis.com/language/translate/v2',
 			dataType: "jsonp",
 			data: {
-				key: t_jp.google_key,
+				key: 'AIzaSyAChVWikMVLHzMMrkmqpZkmNwnh9errKgs',
 				q: batchtrans,
 				target: lang,
 				source: t_jp.olang

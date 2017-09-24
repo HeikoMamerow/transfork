@@ -1587,9 +1587,9 @@ class transposh_plugin {
 		if ( isset( $atts['only'] ) || in_array( 'only', $atts ) ) {
 			$only_class = ' class="' . ONLY_THISLANGUAGE_CLASS . '"';
 			tp_logger( $atts['lang'] . " " . $this->target_language );
-			//            if ($atts['lang'] != $this->target_language) {
-			//                return;
-			//            }
+			if ($atts['lang'] != $this->target_language) {
+				return;
+			}
 		}
 
 		if ( isset( $atts['no_translate'] ) ) {
